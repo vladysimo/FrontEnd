@@ -1,3 +1,23 @@
-body{
+h1 {
+	font-size: 20px;
+	color: blue;
+	text-align: center;
+}
 
+th {
+	color: purple;
+	background-color: yellow;
+}
+
+td {
+	font-family: "Times New Roman", Times, serif;
+	font-style: italic;
+}
+
+body{
+	
+}
+
+a:hover {
+	color: red;
 }
